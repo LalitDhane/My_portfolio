@@ -1,0 +1,151 @@
+.top-container {
+  background-color: #e4f9f5;
+  padding: 20px;
+  padding-top: 150px;
+  padding-bottom: 0;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  color:#40514E;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 380px;
+  bottom: 640px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 380px;
+  bottom: 350px;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.65rem;
+  margin: 0;
+  color: #66BFBF;
+}
+
+p {
+  font-family: 'Play', sans-serif;
+  font-size: 18px;
+    line-height: 2;
+}
+
+h2, h3, .footer-link, .btn {
+  font-family: 'Play', sans-serif;
+  color: #11999E;
+}
+h2{
+  font-size: 30px;
+  margin:30px 0 30px 0;
+}
+h3{
+    margin:30px 0 30px 0;
+}
+
+.profile {
+
+  width :35%;
+    margin: auto;
+    margin-bottom: 20px;
+      margin-top: 80px;
+}
+.profile-pic{
+  height: 250px;
+  width: 250px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-color: #EAF6F6;
+  border-width: 7px;
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+
+ .webdev {
+  margin-right: 30px;
+  height: 25%;
+  width: 25%;
+    float: left;
+}
+.appdev{
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+#tag {
+  font-family: 'Play', sans-serif;
+  font-size: 2.5rem;
+  margin: 0;
+  margin-bottom: 50px;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+}
+
+.skill-row{
+  width: 50%;
+  margin: auto;
+  margin-top: 80px;
+  margin-bottom: 100px;
+  text-align: left;
+}
+
+#lastline{
+  margin-bottom: 60px;
+}
+.contact-me{
+  margin-bottom: 80px;
+}
+.bottom-container{
+  background-color: #95e1d3;
+  padding: 30px;
+}
+.licence{
+  color: #EAF6F6;
+  margin :0;
+  margin-top:20px;
+}
+.footer-link{
+  text-decoration: none;
+  margin:10px;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.myButton {
+	background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+	background-color:#79bbff;
+	border-radius:15px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:12px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 3px #528ecc;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+	background-color:#378de5;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
